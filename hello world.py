@@ -1,2 +1,2 @@
-	print 'Hello,Welcome to linux python'
-	print 'test...'
+print("Hello,Welcome to linux python")
+print("test...")
